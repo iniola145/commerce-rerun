@@ -1,2 +1,0 @@
-# zoho-commerce
-ASSIGNMENT
